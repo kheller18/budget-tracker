@@ -6,7 +6,7 @@ const compression = require("compression");
 // port definition
 const PORT = process.env.PORT || 3000;
 
-// express server 
+// express server
 const app = express();
 
 // middleware
